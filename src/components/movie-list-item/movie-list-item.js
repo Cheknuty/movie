@@ -1,5 +1,4 @@
 import './movie-list-item.css'
-import { TouchList } from 'react'
 
 
  const MovieListItem =({name,views,favourite,like,onDelete,onFavourite,onLike})=>{
